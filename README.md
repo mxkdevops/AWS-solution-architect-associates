@@ -7,3 +7,5 @@ https://www.udemy.com/course/aws-certified-solutions-architect-associate-hands-o
 #Practice Exams | AWS Certified Solutions Architect Associate
 (https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate/learn/quiz/5229058/test#content)
 
+#Ultimate AWS Certified Solutions Architect Associate SAA-C03
+https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/learn/lecture/13528194?start=43#notes
