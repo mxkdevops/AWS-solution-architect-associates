@@ -10,5 +10,5 @@ https://www.udemy.com/course/aws-certified-solutions-architect-associate-hands-o
 #Ultimate AWS Certified Solutions Architect Associate SAA-C03
 https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/learn/lecture/13528194?start=43#notes
 
-AWS Certified Solutions Architect - Associate (SAA-C03)- CloudGuru course
+#AWS Certified Solutions Architect - Associate (SAA-C03)- CloudGuru course
 https://learn.acloud.guru/course/certified-solutions-architect-associate/dashboard
