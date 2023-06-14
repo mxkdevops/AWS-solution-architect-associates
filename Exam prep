@@ -1,6 +1,14 @@
 AWS migration service | DigitalCLoud cheatsheet
 https://digitalcloud.training/aws-migration-services/
 
+Application Migration services
+Database migration services
+
+
 Comparsion table datasync and storage gateway
 https://tutorialsdojo.com/aws-datasync-vs-storage-gateway/
+
+Query service - aws athena 
+Data warehouse- AWS redshift 
+Somposticated data processing - AWS EMR 
 
