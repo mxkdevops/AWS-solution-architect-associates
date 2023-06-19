@@ -13,7 +13,12 @@ https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/on-demand-str
 
 #Encrypt specific fields throughout system processing 
 
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/field-level-encryption.html
+
 #Customize at the edge 
+
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-examples.html
+
 
 #Serve private content by using Lambda@edge customizations 
 
