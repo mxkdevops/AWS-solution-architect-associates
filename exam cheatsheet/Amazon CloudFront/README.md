@@ -6,7 +6,7 @@ https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-s3-amazon-cl
 
 #Server video on demand or live streaming video
 
-# https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/on-demand-streaming-video.html
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/on-demand-streaming-video.html
 
 
 
