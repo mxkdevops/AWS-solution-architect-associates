@@ -1,6 +1,7 @@
 #CloudFront use cases
 
 #Accelerate static website content delivery
+
 https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-s3-amazon-cloudfront-a-match-made-in-the-cloud/
 
 
