@@ -7,10 +7,12 @@ AWS solution architect course materials including code , lab , resources , refer
 [](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 https://www.udemy.com/course/aws-certified-solutions-architect-associate-hands-on/learn/lecture/28618816?start=165#overview
+
 '''
 function test() {
   console.log("notice the blank line before this function?");
 }
+
 '''
 
 #Practice Exams | AWS Certified Solutions Architect Associate
