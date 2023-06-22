@@ -12,7 +12,6 @@ https://www.udemy.com/course/aws-certified-solutions-architect-associate-hands-o
 function test() {
   console.log("notice the blank line before this function?");
 }
-
 '''
 
 #Practice Exams | AWS Certified Solutions Architect Associate
